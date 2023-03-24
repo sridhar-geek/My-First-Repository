@@ -1,2 +1,4 @@
 # My-First-Repository
-To learn git hub repositories
+This is the first branch 
+
+Just created a new branch and ready to make a pull request.
